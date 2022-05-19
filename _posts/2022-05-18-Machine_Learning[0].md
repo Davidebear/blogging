@@ -3,12 +3,11 @@ title: "Machine_Learning[0]"
 description: "A person who pursues the unknown."
 layout: post
 toc: true
-image: None
 hide: false
 search_exclude: false
 comments: true
 sticky_rank: 1
-categories: [fastpages]
+categories: [machine learning]
 ---
 <!-- The upper markdown cell is the **front matter** that enables or disables various potions and can pass metadata. It must be **valid YAML**-->
 
