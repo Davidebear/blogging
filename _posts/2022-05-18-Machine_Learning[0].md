@@ -1,12 +1,13 @@
 ---
 title: "Machine_Learning[0]"
-description: "How I discovered machine learning"
+description: "A person who pursues the unknown."
 layout: post
 toc: true
 hide: false
 search_exclude: false
 comments: true
-categories: [machine learning, log]
+sticky_rank: 1
+categories: [machine learning]
 ---
 <!-- The upper markdown cell is the **front matter** that enables or disables various potions and can pass metadata. It must be **valid YAML**-->
 
